@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there :wave:
 
-<!--
-**m13ha/m13ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-end Developer with over 3 years experience in Javascript, HTML, and CSS.
+i am well versed in responsive design and object-oriented programming.  I am passionate about minimal Ui designs, entrepreneurship, and graphics design.
 
-Here are some ideas to get you started:
+- I am currently working on **Onome** a react app for the students of uniben.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- I am currently learning **React**, **Api Development**.
+
+
+- I regularly write about things I learn on [**dev.to**](https://dev.to/m13ha)
+
+
+- Some of my other skills include **JQuery, JSON, JavaScriptMVC, Ajax, Git, and Mongodb.**
+
+
+- You can reach me at [nwaokocham@gmail.com.](https://nwaokocham@gmail.com)
