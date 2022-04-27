@@ -1,9 +1,9 @@
 ## Hi there :wave:
 
 I am a Front-end Developer with over 3 years experience in Javascript, HTML, and CSS.
-i am well versed in responsive design and object-oriented programming.  I am passionate about Ui/Ux design, entrepreneurship, and problem solving through technology.
+i am well versed in responsive design and object-oriented programming.  I am passionate about UI/Ux Design, Entrepreneurship, and problem solving through technology.
 
-- I am currently working on **Onome** a react app for the students of uniben.
+- I am currently working on **Onome** a react app for the students of Uniben.
 
 
 - I am currently learning **React**.
