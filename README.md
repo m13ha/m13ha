@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I am a Front-end Developer with over 3 years of experience in Javascript, HTML, and CSS. I am well versed in responsive design and object-oriented programming. I am passionate about UI/UX Design, innovation, and problem-solving through technology.
+I am a Front-end Developer with over 3 years of experience in Javascript, HTML, and CSS. I am well versed in responsive design and object-oriented programming. I am passionate about innovation, and problem-solving through technology.
 
 - I am currently working on a react app to help people better understand data structures and how they work.
 
