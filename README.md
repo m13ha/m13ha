@@ -1,12 +1,12 @@
-Hi there! 👋
+Hey! 👋
 
-I'm a Front-end Developer with over 3 years of experience in Javascript, HTML, and CSS. 💻 I'm well-versed in responsive design and object-oriented programming. 🔍 I'm passionate about innovation and problem-solving through technology.
+I'm a Front-end Developer with 3+ years of experience in Javascript, HTML, and CSS. 💻 I excel in responsive design and object-oriented programming. 🔍 Technology-driven innovation and creative problem-solving are my passions.
 
+🌱 Currently, I'm developing a React app that simplifies comprehension of data structures. I'm constantly seeking new opportunities to enhance my skills. 🚀 That's why I'm presently immersed in learning React.
 
-🌱 Currently, I'm working on a React app to help people better understand data structures and how they work. I'm always looking for ways to learn and improve my skills. 🚀 That's why I'm currently learning React.
+📝 I frequently share my learning experiences on dev.to. 📖
 
-📝 I regularly write about things I learn on dev.to. 📖
+Additional skills I possess include JQuery, JSON, JavaScriptMVC, Ajax, Git, and Mongodb. 💪
 
-Some of my other skills include JQuery, JSON, JavaScriptMVC, Ajax, Git, and Mongodb. 💪
+For questions or just to connect, feel free to reach me at nwaokocham@gmail.com. 😊
 
-Feel free to reach out to me at nwaokocham@gmail.com if you have any questions or just want to connect. 😊
