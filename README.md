@@ -1,6 +1,6 @@
 Hey! 👋
 
-I'm a Front-end Developer with over 3 years of experience in web-development. 💻 I excel in responsive design and object-oriented programming. 🔍 Technology-driven innovation and creative problem-solving are my passions.
+I'm a Front-end Developer with over 3 years of experience. 💻 I excel in responsive design and object-oriented programming. 🔍 Technology-driven innovation and creative problem-solving are my passions.
 
 🌱 Currently, I'm presently immersed in learning Dart, Go, Flutter development.
 
